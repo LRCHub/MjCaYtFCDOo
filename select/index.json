@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Triptych Symphony",
+  "base_artist": "La prière",
+  "createdAt": "2026-02-27T14:07:42.857874Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Triptych Symphony",
+      "artist": "La prière",
+      "has_synced": true,
+      "path": "select/01_Triptych_Symphony_La_prière.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Triptych Symphony",
+      "artist": "La prière",
+      "has_synced": false,
+      "path": "select/pl_01_Triptych_Symphony_La_prière.txt"
+    }
+  ]
+}
